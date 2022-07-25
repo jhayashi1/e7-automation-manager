@@ -2,6 +2,8 @@
 
 This project was originally based on https://github.com/EmaOlay/E7-Auto-Shop-Refresh
 
+Original implementation using mouse and keyboard can be found here: https://github.com/jhayashi1/E7-auto-shop
+
 ## Dependencies
 
 Python packages can be installed using ```pip install -r requirements.txt```
